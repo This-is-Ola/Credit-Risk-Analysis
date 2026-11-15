@@ -26,3 +26,5 @@ Housemaids: Despite lower educational attainment and occupational status, only 3
 ## Source: Bank Marketing data, originally for term deposit campaign, repurposed here for credit risk.
 
 # NB- To View Code Open 👇bank_credit_risk_analysis.ipynb
+<img width="592" height="490" alt="image" src="https://github.com/user-attachments/assets/e235901a-04d7-4591-9a26-b041fdcd0b45" />
+
