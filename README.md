@@ -1,6 +1,6 @@
 # Credit-Risk-Analysis
 
-**Analysed 11,162 Portuguese Banks Data**
+**Analysed 11,162 Portuguese Bank Data**
 
 # Business Problem
 **The bank wants to understand which customer segments are more suitable for lending and which are more likely to experience negative account balances. By analysing customer demographics and financial characteristics, including job type, education level, account balance, existing loans and mortgage status, the bank aims to develop customer risk profiles to support more informed lending decisions and minimise potential credit risk.**
