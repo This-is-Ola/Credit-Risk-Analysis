@@ -15,9 +15,9 @@
 # FINDINGS AND RECOMMENDATIONS 
 
 **Customer Segmentation 
-Management Employees (White-Collar) & Self-Employed: Generally customer with stronger educational profiles have healthier account balances, with relatively low negative-balance rates. White Collar customers have a 4% negative-balance rate, suggesting a potentially lower-risk customer segment.
+Management Staffs (White-Collar) & Self-Employed: Generally customer with Management Roles and stronger educational profiles have healthier account balances, with relatively low negative-balance rates. White Collar customers have a 4% negative-balance rate, suggesting a potentially lower-risk customer segment.
 Retired: Highest proportion of above-average bank balances (42.5%), suggesting stronger accumulated savings, alongside low personal loan uptake (7%) and negative balances (3%).
-Blue-Collar, Services & Entrepreneurs: Higher borrowing levels and negative-balance rates, particularly among Blue-Collar customers (11% negative balances). These groups require closer affordability and debt assessments, most fall between the age range 30-50.
+Blue-Collar, Services & Entrepreneurs: Higher borrowing tendencies and potential overdraft , particularly among Blue-Collar customers (11% negative balances). These groups require closer affordability checks and debt assessments, most fall between the age range 30-50.
 Housemaids: Despite lower educational attainment and occupational status, only 3% have negative balances and personal loan uptake is 7.3%. This demonstrates that education and occupation alone do not determine financial behaviour.**
     
 # Reccommendations: 
