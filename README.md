@@ -20,7 +20,8 @@ Retired: Highest proportion of above-average bank balances (42.5%), suggesting s
 Blue-Collar, Services & Entrepreneurs: Higher borrowing levels and negative-balance rates, particularly among Blue-Collar customers (11% negative balances). These groups require closer affordability and debt assessments, most fall between the age range 30-50.
 Housemaids: Despite lower educational attainment and occupational status, only 3% have negative balances and personal loan uptake is 7.3%. This demonstrates that education and occupation alone do not determine financial behaviour.**
     
-# Reccommendations: Occupation and education help predict customer financial profiles, but borrowing behaviour and account balances provide a clearer picture of their financial position. Customer assessment officers should consider all these factors rather than relying on education or occupation alone.
+# Reccommendations: 
+**Occupation and education help predict customer financial profiles, but borrowing behaviour and account balances provide a clearer picture of their financial position. Customer assessment officers should consider all these factors rather than relying on education or occupation alone.**
 
 ## Source: Bank Marketing data, originally for term deposit campaign, repurposed here for credit risk.
 
