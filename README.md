@@ -27,4 +27,6 @@ Housemaids: Despite lower educational attainment and occupational status, only 3
 
 # NB- To View Code Open 👇bank_credit_risk_analysis.ipynb
 <img width="592" height="490" alt="image" src="https://github.com/user-attachments/assets/e235901a-04d7-4591-9a26-b041fdcd0b45" />
+<img width="1185" height="593" alt="image" src="https://github.com/user-attachments/assets/f1be26c7-7a56-4d08-b1a0-b050ba5bea46" />
+<img width="1087" height="789" alt="image" src="https://github.com/user-attachments/assets/c546e1c2-fe8b-4acd-84fc-157658099b44" />
 
