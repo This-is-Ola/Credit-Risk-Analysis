@@ -7,7 +7,7 @@
 
 # Business Questions
 
-**1. Who is most likely to go into overdraft?
+**1. Who is most likely to go into overdraft ?
 2. What are the characteristics (age, education, occupation and account balance) of customers who take personal loans?
 3. Which customer segments demonstrate potentially higher financial risk?
 4. Is educational attainment associated with financial behaviour (account balances, personal loans, mortgage uptake and overdraft)?**
